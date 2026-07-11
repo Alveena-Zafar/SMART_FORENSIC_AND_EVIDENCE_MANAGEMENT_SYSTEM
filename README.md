@@ -2,6 +2,7 @@
 
 > **Database Systems (DBS) Course Project — Semester 4, UET Taxila**
 > A role-based desktop application for managing criminal cases, evidence, suspects, and chain-of-custody records — built on a fully normalized Oracle database with audit-logging triggers, and a Python (Tkinter) GUI on top.
+
 ---
 
 ## 📌 Table of Contents
@@ -139,8 +140,8 @@ Database credentials (`DB_USER`, `DB_PASSWORD`, `DB_DSN`) are currently constant
 
 This project was designed and developed collaboratively as part of the Database Systems course, Semester 4, UET Taxila.
 
--GitHub: github.com/Alveena-Zafar
--GitHub: github.com/ayelahamid-prog
+- GitHub: [github.com/Alveena-Zafar](https://github.com/Alveena-Zafar)
+- GitHub: [github.com/ayelahamid-prog](https://github.com/ayelahamid-prog)
 
 ---
 
