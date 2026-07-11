@@ -151,6 +151,6 @@ This project was built for academic purposes as part of a university Database Sy
 
 <div align="center">
 
-Made by Alveena Zafar & Ayela Hamid
+Made by Alveena Zafar & Ayela Hamid.
 
 </div>
