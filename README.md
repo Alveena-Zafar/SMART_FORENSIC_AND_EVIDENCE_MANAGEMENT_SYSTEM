@@ -139,8 +139,8 @@ Database credentials (`DB_USER`, `DB_PASSWORD`, `DB_DSN`) are currently constant
 
 This project was designed and developed collaboratively as part of the Database Systems course, Semester 4, UET Taxila.
 
-GitHub: github.com/Alveena-Zafar
-GitHub: github.com/ayelahamid-prog
+-GitHub: github.com/Alveena-Zafar
+-GitHub: github.com/ayelahamid-prog
 
 ---
 
